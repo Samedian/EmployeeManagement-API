@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagementEntity", "EmployeeManagementEntity\EmployeeManagementEntity.csproj", "{4B605D35-AF86-4BF2-9CC3-DCA8B82C69EF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagementDataAccessLayer", "EmployeeManagementDataAccessLayer\EmployeeManagementDataAccessLayer.csproj", "{80834328-9C02-4421-8C2F-C761D9298C18}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagementBusinessLayer", "EmployeeManagementBusinessLayer\EmployeeManagementBusinessLayer.csproj", "{95FD5EB4-418B-401B-B57F-DACAB100BCA0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagementPresentationLayer", "EmployeeManagementPresentationLayer\EmployeeManagementPresentationLayer.csproj", "{2DF5F691-9822-4F06-AF2C-AF61AC199CC2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagementException", "EmployeeManagementException\EmployeeManagementException.csproj", "{07546F02-F144-48B8-A818-00ACCFD9C0CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeManagementControllerTesting", "EmployeeManagementControllerTesting\EmployeeManagementControllerTesting.csproj", "{C9AF4848-A403-45DC-951A-E70739B363FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B605D35-AF86-4BF2-9CC3-DCA8B82C69EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B605D35-AF86-4BF2-9CC3-DCA8B82C69EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B605D35-AF86-4BF2-9CC3-DCA8B82C69EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B605D35-AF86-4BF2-9CC3-DCA8B82C69EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80834328-9C02-4421-8C2F-C761D9298C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80834328-9C02-4421-8C2F-C761D9298C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80834328-9C02-4421-8C2F-C761D9298C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80834328-9C02-4421-8C2F-C761D9298C18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95FD5EB4-418B-401B-B57F-DACAB100BCA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95FD5EB4-418B-401B-B57F-DACAB100BCA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95FD5EB4-418B-401B-B57F-DACAB100BCA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95FD5EB4-418B-401B-B57F-DACAB100BCA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DF5F691-9822-4F06-AF2C-AF61AC199CC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DF5F691-9822-4F06-AF2C-AF61AC199CC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DF5F691-9822-4F06-AF2C-AF61AC199CC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DF5F691-9822-4F06-AF2C-AF61AC199CC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07546F02-F144-48B8-A818-00ACCFD9C0CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07546F02-F144-48B8-A818-00ACCFD9C0CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07546F02-F144-48B8-A818-00ACCFD9C0CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07546F02-F144-48B8-A818-00ACCFD9C0CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9AF4848-A403-45DC-951A-E70739B363FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9AF4848-A403-45DC-951A-E70739B363FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9AF4848-A403-45DC-951A-E70739B363FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9AF4848-A403-45DC-951A-E70739B363FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42A835FB-543C-4AFA-B033-E8C2FB5A1958}
+	EndGlobalSection
+EndGlobal

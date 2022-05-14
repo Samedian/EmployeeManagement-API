@@ -1,0 +1,1162 @@
+{
+  "EmployeeManagementBusinessLayer.dll": {
+    "C:\\Users\\Samarth\\source\\repos\\EmployeeManagement\\EmployeeManagementBusinessLayer\\EmployeeBAL.cs": {
+      "EmployeeManagementBusinessLayer.EmployeeBAL": {
+        "System.Void EmployeeManagementBusinessLayer.EmployeeBAL::.ctor(EmployeeManagementDataAccessLayer.IEmployeeDAL,EmployeeManagementBusinessLayer.IValidateData)": {
+          "Lines": {
+            "14": 5,
+            "15": 5,
+            "16": 5,
+            "17": 5,
+            "18": 5
+          },
+          "Branches": []
+        }
+      },
+      "EmployeeManagementBusinessLayer.EmployeeBAL/<AddEmployee>d__3": {
+        "System.Void EmployeeManagementBusinessLayer.EmployeeBAL/<AddEmployee>d__3::MoveNext()": {
+          "Lines": {
+            "26": 1,
+            "27": 1,
+            "29": 1,
+            "30": 0,
+            "31": 1,
+            "33": 1,
+            "35": 1
+          },
+          "Branches": [
+            {
+              "Line": 29,
+              "Offset": 49,
+              "EndOffset": 51,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 49,
+              "EndOffset": 62,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            }
+          ]
+        }
+      },
+      "EmployeeManagementBusinessLayer.EmployeeBAL/<DeleteEmployee>d__4": {
+        "System.Void EmployeeManagementBusinessLayer.EmployeeBAL/<DeleteEmployee>d__4::MoveNext()": {
+          "Lines": {
+            "43": 1,
+            "45": 1,
+            "46": 1,
+            "48": 1
+          },
+          "Branches": []
+        }
+      },
+      "EmployeeManagementBusinessLayer.EmployeeBAL/<GetEmployee>d__5": {
+        "System.Void EmployeeManagementBusinessLayer.EmployeeBAL/<GetEmployee>d__5::MoveNext()": {
+          "Lines": {
+            "55": 1,
+            "56": 1,
+            "57": 1,
+            "58": 1
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Samarth\\source\\repos\\EmployeeManagement\\EmployeeManagementBusinessLayer\\ValidateData.cs": {
+      "EmployeeManagementBusinessLayer.ValidateData": {
+        "System.Boolean EmployeeManagementBusinessLayer.ValidateData::Validate(EmployeeManagementEntity.EmployeeDetailsEntity)": {
+          "Lines": {
+            "19": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "29": 0,
+            "30": 0,
+            "32": 0,
+            "33": 0,
+            "35": 0,
+            "36": 0,
+            "38": 0,
+            "39": 0,
+            "41": 0,
+            "43": 0
+          },
+          "Branches": [
+            {
+              "Line": 22,
+              "Offset": 31,
+              "EndOffset": 33,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 22,
+              "Offset": 31,
+              "EndOffset": 40,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 26,
+              "Offset": 75,
+              "EndOffset": 77,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 26,
+              "Offset": 75,
+              "EndOffset": 98,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 26,
+              "Offset": 101,
+              "EndOffset": 103,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 26,
+              "Offset": 101,
+              "EndOffset": 107,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 123,
+              "EndOffset": 125,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 123,
+              "EndOffset": 129,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 147,
+              "EndOffset": 149,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 147,
+              "EndOffset": 153,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 171,
+              "EndOffset": 173,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 171,
+              "EndOffset": 177,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 0
+            },
+            {
+              "Line": 38,
+              "Offset": 197,
+              "EndOffset": 199,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 0
+            },
+            {
+              "Line": 38,
+              "Offset": 197,
+              "EndOffset": 203,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.String EmployeeManagementBusinessLayer.ValidateData::ConvertTitlecase(System.String)": {
+          "Lines": {
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0
+          },
+          "Branches": [
+            {
+              "Line": 47,
+              "Offset": 21,
+              "EndOffset": 23,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 47,
+              "Offset": 21,
+              "EndOffset": 27,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Boolean EmployeeManagementBusinessLayer.ValidateData::ValidatePhoneNo(System.String)": {
+          "Lines": {
+            "57": 0,
+            "58": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0
+          },
+          "Branches": [
+            {
+              "Line": 60,
+              "Offset": 21,
+              "EndOffset": 23,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 60,
+              "Offset": 21,
+              "EndOffset": 27,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Boolean EmployeeManagementBusinessLayer.ValidateData::ValidateEMailId(System.String)": {
+          "Lines": {
+            "66": 0,
+            "67": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "72": 0
+          },
+          "Branches": [
+            {
+              "Line": 69,
+              "Offset": 21,
+              "EndOffset": 23,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 69,
+              "Offset": 21,
+              "EndOffset": 27,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Boolean EmployeeManagementBusinessLayer.ValidateData::ValidateDOB(System.String)": {
+          "Lines": {
+            "75": 0,
+            "76": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "EmployeeManagementDataAccessLayer.dll": {
+    "C:\\Users\\Samarth\\source\\repos\\EmployeeManagement\\EmployeeManagementDataAccessLayer\\EmployeeDAL.cs": {
+      "EmployeeManagementDataAccessLayer.EmployeeDAL": {
+        "System.Void EmployeeManagementDataAccessLayer.EmployeeDAL::.ctor(EmployeeManagementDataAccessLayer.Model.EmployeemanagementContext,EmployeeManagementDataAccessLayer.IModelConverter)": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0
+          },
+          "Branches": []
+        }
+      },
+      "EmployeeManagementDataAccessLayer.EmployeeDAL/<AddEmployee>d__3": {
+        "System.Void EmployeeManagementDataAccessLayer.EmployeeDAL/<AddEmployee>d__3::MoveNext()": {
+          "Lines": {
+            "27": 0,
+            "28": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "39": 0,
+            "40": 0
+          },
+          "Branches": []
+        }
+      },
+      "EmployeeManagementDataAccessLayer.EmployeeDAL/<DeleteEmployee>d__4": {
+        "System.Void EmployeeManagementDataAccessLayer.EmployeeDAL/<DeleteEmployee>d__4::MoveNext()": {
+          "Lines": {
+            "48": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "61": 0,
+            "63": 0
+          },
+          "Branches": []
+        }
+      },
+      "EmployeeManagementDataAccessLayer.EmployeeDAL/<GetEmployee>d__5": {
+        "System.Void EmployeeManagementDataAccessLayer.EmployeeDAL/<GetEmployee>d__5::MoveNext()": {
+          "Lines": {
+            "70": 0,
+            "71": 0,
+            "73": 0,
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "81": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "86": 0,
+            "87": 0,
+            "88": 0
+          },
+          "Branches": [
+            {
+              "Line": 82,
+              "Offset": 316,
+              "EndOffset": 226,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 82,
+              "Offset": 316,
+              "EndOffset": 318,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\Samarth\\source\\repos\\EmployeeManagement\\EmployeeManagementDataAccessLayer\\ModelConverter.cs": {
+      "EmployeeManagementDataAccessLayer.ModelConverter": {
+        "EmployeeManagementDataAccessLayer.Model.EmployeeDetail EmployeeManagementDataAccessLayer.ModelConverter::ConvertEntityToModel(EmployeeManagementEntity.EmployeeDetailsEntity)": {
+          "Lines": {
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "28": 0,
+            "29": 0
+          },
+          "Branches": []
+        },
+        "EmployeeManagementEntity.EmployeeDetailsEntity EmployeeManagementDataAccessLayer.ModelConverter::ConvertModelToEntity(EmployeeManagementDataAccessLayer.Model.EmployeeDetail)": {
+          "Lines": {
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "47": 0,
+            "48": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Samarth\\source\\repos\\EmployeeManagement\\EmployeeManagementDataAccessLayer\\Model\\EmployeeDetail.cs": {
+      "EmployeeManagementDataAccessLayer.Model.EmployeeDetail": {
+        "System.String EmployeeManagementDataAccessLayer.Model.EmployeeDetail::get_Id()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.String EmployeeManagementDataAccessLayer.Model.EmployeeDetail::get_Name()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.String EmployeeManagementDataAccessLayer.Model.EmployeeDetail::get_Gender()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.DateTime> EmployeeManagementDataAccessLayer.Model.EmployeeDetail::get_Dob()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.String EmployeeManagementDataAccessLayer.Model.EmployeeDetail::get_ContactNumber()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.String EmployeeManagementDataAccessLayer.Model.EmployeeDetail::get_Email()": {
+          "Lines": {
+            "15": 0
+          },
+          "Branches": []
+        },
+        "System.Nullable`1<System.Decimal> EmployeeManagementDataAccessLayer.Model.EmployeeDetail::get_Salary()": {
+          "Lines": {
+            "16": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Samarth\\source\\repos\\EmployeeManagement\\EmployeeManagementDataAccessLayer\\Model\\EmployeemanagementContext.cs": {
+      "EmployeeManagementDataAccessLayer.Model.EmployeemanagementContext": {
+        "Microsoft.EntityFrameworkCore.DbSet`1<EmployeeManagementDataAccessLayer.Model.EmployeeDetail> EmployeeManagementDataAccessLayer.Model.EmployeemanagementContext::get_EmployeeDetails()": {
+          "Lines": {
+            "20": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeManagementDataAccessLayer.Model.EmployeemanagementContext::OnModelCreating(Microsoft.EntityFrameworkCore.ModelBuilder)": {
+          "Lines": {
+            "32": 0,
+            "33": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0,
+            "60": 0,
+            "61": 0,
+            "62": 0,
+            "63": 0,
+            "66": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeManagementDataAccessLayer.Model.EmployeemanagementContext::.ctor(Microsoft.EntityFrameworkCore.DbContextOptions`1<EmployeeManagementDataAccessLayer.Model.EmployeemanagementContext>)": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "EmployeeManagementEntity.dll": {
+    "C:\\Users\\Samarth\\source\\repos\\EmployeeManagement\\EmployeeManagementEntity\\EmployeeDetailsEntity.cs": {
+      "EmployeeManagementEntity.EmployeeDetailsEntity": {
+        "System.String EmployeeManagementEntity.EmployeeDetailsEntity::get_Id()": {
+          "Lines": {
+            "7": 2
+          },
+          "Branches": []
+        },
+        "System.String EmployeeManagementEntity.EmployeeDetailsEntity::get__Name()": {
+          "Lines": {
+            "9": 2
+          },
+          "Branches": []
+        },
+        "System.String EmployeeManagementEntity.EmployeeDetailsEntity::get_Gender()": {
+          "Lines": {
+            "11": 2
+          },
+          "Branches": []
+        },
+        "System.String EmployeeManagementEntity.EmployeeDetailsEntity::get_DOB()": {
+          "Lines": {
+            "13": 2
+          },
+          "Branches": []
+        },
+        "System.String EmployeeManagementEntity.EmployeeDetailsEntity::get_ContactNumber()": {
+          "Lines": {
+            "15": 2
+          },
+          "Branches": []
+        },
+        "System.String EmployeeManagementEntity.EmployeeDetailsEntity::get_Email()": {
+          "Lines": {
+            "17": 2
+          },
+          "Branches": []
+        },
+        "System.Decimal EmployeeManagementEntity.EmployeeDetailsEntity::get_Salary()": {
+          "Lines": {
+            "19": 2
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "EmployeeManagementException.dll": {
+    "C:\\Users\\Samarth\\source\\repos\\EmployeeManagement\\EmployeeManagementException\\BadRequest.cs": {
+      "EmployeeManagementException.BadRequest": {
+        "System.Void EmployeeManagementException.BadRequest::.ctor(System.String)": {
+          "Lines": {
+            "7": 0,
+            "8": 0,
+            "10": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "EmployeeManagementPresentationLayer.dll": {
+    "C:\\Users\\Samarth\\source\\repos\\EmployeeManagement\\EmployeeManagementPresentationLayer\\Program.cs": {
+      "EmployeeManagementPresentationLayer.Program": {
+        "System.Void EmployeeManagementPresentationLayer.Program::Main(System.String[])": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        },
+        "Microsoft.Extensions.Hosting.IHostBuilder EmployeeManagementPresentationLayer.Program::CreateHostBuilder(System.String[])": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Samarth\\source\\repos\\EmployeeManagement\\EmployeeManagementPresentationLayer\\Startup.cs": {
+      "EmployeeManagementPresentationLayer.Startup": {
+        "Microsoft.Extensions.Configuration.IConfiguration EmployeeManagementPresentationLayer.Startup::get_Configuration()": {
+          "Lines": {
+            "27": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeManagementPresentationLayer.Startup::ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)": {
+          "Lines": {
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "39": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeManagementPresentationLayer.Startup::Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)": {
+          "Lines": {
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "47": 0,
+            "49": 0,
+            "51": 0,
+            "53": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "58": 0,
+            "59": 0
+          },
+          "Branches": [
+            {
+              "Line": 44,
+              "Offset": 9,
+              "EndOffset": 11,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 44,
+              "Offset": 9,
+              "EndOffset": 20,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void EmployeeManagementPresentationLayer.Startup::.ctor(Microsoft.Extensions.Configuration.IConfiguration)": {
+          "Lines": {
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Samarth\\source\\repos\\EmployeeManagement\\EmployeeManagementPresentationLayer\\WeatherForecast.cs": {
+      "EmployeeManagementPresentationLayer.WeatherForecast": {
+        "System.DateTime EmployeeManagementPresentationLayer.WeatherForecast::get_Date()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 EmployeeManagementPresentationLayer.WeatherForecast::get_TemperatureC()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 EmployeeManagementPresentationLayer.WeatherForecast::get_TemperatureF()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.String EmployeeManagementPresentationLayer.WeatherForecast::get_Summary()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\Samarth\\source\\repos\\EmployeeManagement\\EmployeeManagementPresentationLayer\\Controllers\\EmployeeController.cs": {
+      "EmployeeManagementPresentationLayer.Controllers.EmployeeController": {
+        "System.Void EmployeeManagementPresentationLayer.Controllers.EmployeeController::.ctor(EmployeeManagementBusinessLayer.IEmployeeBAL,EmployeeManagementBusinessLayer.IValidateData)": {
+          "Lines": {
+            "21": 3,
+            "22": 3,
+            "23": 3,
+            "24": 3,
+            "25": 3
+          },
+          "Branches": []
+        }
+      },
+      "EmployeeManagementPresentationLayer.Controllers.EmployeeController/<Get>d__3": {
+        "System.Void EmployeeManagementPresentationLayer.Controllers.EmployeeController/<Get>d__3::MoveNext()": {
+          "Lines": {
+            "33": 1,
+            "35": 1,
+            "36": 1,
+            "37": 1,
+            "38": 1,
+            "40": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "51": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "57": 0,
+            "60": 0,
+            "63": 0,
+            "66": 0,
+            "69": 0,
+            "70": 0,
+            "71": 0,
+            "73": 1
+          },
+          "Branches": [
+            {
+              "Line": 37,
+              "Offset": 172,
+              "EndOffset": 174,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 37,
+              "Offset": 172,
+              "EndOffset": 196,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 48,
+              "Offset": 294,
+              "EndOffset": 296,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 48,
+              "Offset": 294,
+              "EndOffset": 318,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 57,
+              "Offset": 415,
+              "EndOffset": 419,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 57,
+              "Offset": 415,
+              "EndOffset": 430,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 57,
+              "Offset": 426,
+              "EndOffset": 449,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 57,
+              "Offset": 426,
+              "EndOffset": 468,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "EmployeeManagementPresentationLayer.Controllers.EmployeeController/<>c__DisplayClass4_0": {
+        "System.Boolean EmployeeManagementPresentationLayer.Controllers.EmployeeController/<>c__DisplayClass4_0::<Get>b__0(EmployeeManagementEntity.EmployeeDetailsEntity)": {
+          "Lines": {
+            "87": 0
+          },
+          "Branches": []
+        }
+      },
+      "EmployeeManagementPresentationLayer.Controllers.EmployeeController/<Get>d__4": {
+        "System.Void EmployeeManagementPresentationLayer.Controllers.EmployeeController/<Get>d__4::MoveNext()": {
+          "Lines": {
+            "82": 0,
+            "84": 0,
+            "85": 0,
+            "89": 0,
+            "90": 0,
+            "92": 0,
+            "94": 0,
+            "95": 0,
+            "96": 0,
+            "98": 0,
+            "99": 0,
+            "100": 0,
+            "101": 0,
+            "103": 0,
+            "105": 0,
+            "106": 0,
+            "107": 0,
+            "109": 0,
+            "112": 0,
+            "115": 0,
+            "118": 0,
+            "121": 0,
+            "122": 0,
+            "123": 0,
+            "125": 0
+          },
+          "Branches": [
+            {
+              "Line": 89,
+              "Offset": 229,
+              "EndOffset": 231,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 89,
+              "Offset": 229,
+              "EndOffset": 253,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 100,
+              "Offset": 351,
+              "EndOffset": 353,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 100,
+              "Offset": 351,
+              "EndOffset": 375,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 109,
+              "Offset": 472,
+              "EndOffset": 476,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 109,
+              "Offset": 472,
+              "EndOffset": 487,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 109,
+              "Offset": 483,
+              "EndOffset": 506,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 109,
+              "Offset": 483,
+              "EndOffset": 525,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "EmployeeManagementPresentationLayer.Controllers.EmployeeController/<Save>d__5": {
+        "System.Void EmployeeManagementPresentationLayer.Controllers.EmployeeController/<Save>d__5::MoveNext()": {
+          "Lines": {
+            "135": 1,
+            "137": 1,
+            "138": 1,
+            "140": 1,
+            "141": 1,
+            "143": 0,
+            "146": 0,
+            "147": 0,
+            "148": 0,
+            "150": 0,
+            "151": 0,
+            "152": 0,
+            "153": 0,
+            "155": 0,
+            "157": 0,
+            "158": 0,
+            "159": 0,
+            "161": 0,
+            "164": 0,
+            "167": 0,
+            "170": 0,
+            "172": 0,
+            "173": 0,
+            "174": 0,
+            "178": 1
+          },
+          "Branches": [
+            {
+              "Line": 140,
+              "Offset": 163,
+              "EndOffset": 165,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 140,
+              "Offset": 163,
+              "EndOffset": 193,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 152,
+              "Offset": 285,
+              "EndOffset": 287,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 152,
+              "Offset": 285,
+              "EndOffset": 309,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 161,
+              "Offset": 406,
+              "EndOffset": 410,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 161,
+              "Offset": 406,
+              "EndOffset": 421,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 161,
+              "Offset": 417,
+              "EndOffset": 440,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 161,
+              "Offset": 417,
+              "EndOffset": 459,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "EmployeeManagementPresentationLayer.Controllers.EmployeeController/<DeleteEmployee>d__6": {
+        "System.Void EmployeeManagementPresentationLayer.Controllers.EmployeeController/<DeleteEmployee>d__6::MoveNext()": {
+          "Lines": {
+            "187": 1,
+            "189": 1,
+            "190": 1,
+            "192": 1,
+            "193": 1,
+            "195": 0,
+            "197": 0,
+            "198": 0,
+            "199": 0,
+            "202": 0,
+            "203": 0,
+            "204": 0,
+            "205": 0,
+            "207": 0,
+            "209": 0,
+            "210": 0,
+            "211": 0,
+            "213": 0,
+            "216": 0,
+            "219": 0,
+            "222": 0,
+            "225": 0,
+            "226": 0,
+            "227": 0,
+            "230": 1
+          },
+          "Branches": [
+            {
+              "Line": 192,
+              "Offset": 163,
+              "EndOffset": 165,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 192,
+              "Offset": 163,
+              "EndOffset": 182,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 204,
+              "Offset": 274,
+              "EndOffset": 276,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 204,
+              "Offset": 274,
+              "EndOffset": 298,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            },
+            {
+              "Line": 213,
+              "Offset": 395,
+              "EndOffset": 399,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 213,
+              "Offset": 395,
+              "EndOffset": 410,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 0
+            },
+            {
+              "Line": 213,
+              "Offset": 406,
+              "EndOffset": 429,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 0
+            },
+            {
+              "Line": 213,
+              "Offset": 406,
+              "EndOffset": 448,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\Samarth\\source\\repos\\EmployeeManagement\\EmployeeManagementPresentationLayer\\Controllers\\WeatherForecastController.cs": {
+      "EmployeeManagementPresentationLayer.Controllers.WeatherForecastController": {
+        "System.Collections.Generic.IEnumerable`1<EmployeeManagementPresentationLayer.WeatherForecast> EmployeeManagementPresentationLayer.Controllers.WeatherForecastController::Get()": {
+          "Lines": {
+            "28": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeManagementPresentationLayer.Controllers.WeatherForecastController::.ctor(Microsoft.Extensions.Logging.ILogger`1<EmployeeManagementPresentationLayer.Controllers.WeatherForecastController>)": {
+          "Lines": {
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0
+          },
+          "Branches": []
+        },
+        "System.Void EmployeeManagementPresentationLayer.Controllers.WeatherForecastController::.cctor()": {
+          "Lines": {
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}

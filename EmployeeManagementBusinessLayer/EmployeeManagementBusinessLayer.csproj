@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EmployeeManagementDataAccessLayer\EmployeeManagementDataAccessLayer.csproj" />
+    <ProjectReference Include="..\EmployeeManagementEntity\EmployeeManagementEntity.csproj" />
+    <ProjectReference Include="..\EmployeeManagementException\EmployeeManagementException.csproj" />
+  </ItemGroup>
+
+</Project>
